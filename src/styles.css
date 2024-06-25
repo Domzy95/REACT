@@ -1,0 +1,13 @@
+.h1 {
+  color: red;
+}
+
+.btn {
+  background-color: lightblue;
+  font-size: 30px;
+  border-radius: 20px;
+}
+.btn.btn-red {
+  background-color: lightcoral;
+  margin-left: 20px;
+}
